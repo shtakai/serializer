@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/charlieegan3/serializer.svg?branch=master)](https://travis-ci.org/charlieegan3/serializer)
 [![Code Climate](https://codeclimate.com/github/charlieegan3/serializer/badges/gpa.svg)](https://codeclimate.com/github/charlieegan3/serializer)
-[![Test Coverage](https://codeclimate.com/github/charlieegan3/serializer/badges/coverage.svg)](https://codeclimate.com/github/charlieegan3/serializer/coverage)
+[![Test Coverage](https://codeclimate.com/github/charlieegan3/serializer/badges/coverage.svg)](https://codeclimate.com/github/charlieegan3/serializer/coverage) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/serializer.svg)](https://www.guardrails.io)
 
 serializer collects links from Hacker news, Reddit & Product Hunt and lists them in **sequential** order, some might even say it *serializes* them. It also collects a few other sources, not all of which are voting based, e.g. Ars Technica.
 
